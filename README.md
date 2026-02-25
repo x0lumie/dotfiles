@@ -14,7 +14,6 @@ Arch:
 
   ```
   sudo pacman -Sy hyprland quickshell rofi kitty && yay -Sy hyprshot
-
   ```
 After running that command and everything finishes drag the config folder into ~/.config/
 
