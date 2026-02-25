@@ -1,5 +1,5 @@
 # shxzu's Dotfiles
-  <img width="800" src="https://raw.githubusercontent.com/shxzu/Simp/recode/image.png">
+  <img width="800" src="https://raw.githubusercontent.com/shxzu/dotfiles/master/2026-02-24-192108_hyprshot.png">
 
 # What is used?
 I currently use:
