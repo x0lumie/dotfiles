@@ -29,8 +29,8 @@ A minimal, keyboard-driven Hyprland setup with a focus on clean aesthetics and f
 Before installing, make sure you have the following:
 
 - **Git** — for cloning the repo
-- **A Nerd Font** — recommended: `JetBrainsMono Nerd Font` or `FiraCode Nerd Font` for icons in the bar to render correctly
 - An existing **Wayland-compatible GPU driver** setup (required for Hyprland)
+- A PC, with an internet connection and a compatible Linux distribution on it (duh)
 
 ---
 
